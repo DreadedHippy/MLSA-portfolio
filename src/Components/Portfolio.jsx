@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "How to create a password generator in rust 🦀",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A beginner-friendy article showing how to create a password generator in rust in 3 levels of complexity",
+    url: "https://medium.com/p/c68a7f7853e1",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Simple Rust TUI app",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A simple Terminal-User-Interface application which acts as a bank management system built with rust.",
+    url: "https://github.com/DreadedHippy/rust_banking_system",
   },
   {
-    title: "My Resume Site",
+    title: "Simple conference landing page",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A simple landing page for a conference website built with Angular.",
+    url: "https://blue-water-04ff4b610.3.azurestaticapps.net/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Youtube Channel",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "My personal youtube channe. Showcasing all things rust and tech.",
+    url: "https://www.youtube.com/@aizondacoder",
   },
 ];
 
